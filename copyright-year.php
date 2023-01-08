@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Copyright Year
- * Description:       Disply a dynamic Copyright Year along with custom text
+ * Description:       Dynamically output the calendar year with a copyright symbol and editable text
  * Requires at least: 6.1
  * Requires PHP:      7.0
  * Version:           1.0.0
